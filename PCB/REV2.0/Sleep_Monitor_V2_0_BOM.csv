@@ -1,0 +1,122 @@
+Reference, Quantity, Value, Footprint, Vendor, Vendor Number
+BT1 ,1,CR1225,footprints:Keystone-3000-0-0-MFG,,
+BT2 ,1,Battery_Cell,footprints:BatteryHolder_Keystone_1042_1x18650_my,TME,KEYS1042
+BZ1 ,1,SD1209T5-A1,footprints:TDK-SD1209-0-0-MFG,Farnell,3212606
+C1 C22 C23 C27 C52 ,5,4u7,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,,
+C14 C15 C17 C18 C20 C21 C24 C28 C29 C30 C31 C32 C33 C35 C37 C38 C39 C40 C42 C49 C50 C51 C60 C67 C68 C69 C70 C74 C77 C78 C81 C82 C83 C84 C85 C88 C91 C94 ,38,100n,Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,
+C25 C26 ,2,10p,Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,
+C43 C80 C87 C90 ,4,1n,Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,
+C5 C36 C47 C73 C75 ,5,1u,Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,
+C41 C44 C45 C46 C48 C53 C54 C55 C56 C57 ,10,10uF,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,,
+C61 C71 C76 C79 C86 ,5,10u,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,,
+C62 C63 C64 C65 C66 ,5,1uF,Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,
+C72 ,1,470p,Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,
+C2 C3 C4 C6 C7 C8 C9 C10 C11 C12 C13 C16 C19 C34 C58 C59 C95 C96 ,18,10n,Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,
+C89 ,1,220u/10V,Capacitor_SMD:CP_Elec_6.3x7.7,,
+C92 C93 ,2,DNS,Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,
+D11 D15 ,2,BAT54CW,Package_TO_SOT_SMD:SOT-323_SC-70,Farnell,1081193
+D12 ,1,"BZX384-B15,115",Diode_SMD:D_SOD-323F,Digi-Key,1727-3640-2-ND
+D13 D14 D17 ,3,HSME-C120,LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,Farnell,1058360
+D16 D27 D28 ,3,PMEG6010CEJ,Diode_SMD:D_SOD-323F,,
+D18 ,1,HSMC-C120,LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,Farnell,1058357
+D20 D21 D22 ,3,SJD12A20L01,Diode_SMD:D_SOD-123,,
+D23 ,1,BAT54J,Diode_SMD:D_SOD-323F,,
+D24 D25 ,2,LED_Small,LED_SMD:LED_0603_1608Metric,,
+D26 ,1,SMAJ12A,Diode_SMD:D_SMA,,
+D29 D30 D31 D32 D33 D34 D35 D36 D37 ,9,PESD5V0L1UA,Diode_SMD:D_SOD-323,Farnell,2069359
+D3 D4 D6 D7 ,4,BAT54S,Package_TO_SOT_SMD:SOT-23,Farnell,9526510
+D1 D2 D5 D8 D19 ,5,BAV99,Package_TO_SOT_SMD:SOT-23,Farnell,1902422
+D9 D10 ,2,PDZ12B,Diode_SMD:D_SOD-323F,,
+F1 ,1,10A,Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder,Farnell,2850029
+F2 ,1,3A,Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder,Farnell,2850032
+F3 ,1,0.375A,Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder,,
+F4 ,1,1A,Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder,Farnell,1652159
+FR1 FR2 ,2,100R/100MHz,Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,
+J1 ,1,WE 694106301002,footprints:BarrelJack_Wuerth_6941xx301002,Farnell,2472149
+J2 ,1,SWD/UART,footprints:2x5pin-R1.27mm,Farnell,2856430
+J3 ,1,USB_C_Receptacle,footprints:Wurth_USB_C_632723300011,Farnell,2984361
+J4 ,1,Micro_SD_Card_Det,footprints:Hirose_DM3AT-SF-PEJM5,,
+J5 ,1,Conn_01x12,footprints:Wago_734-142_1x12_P3.50mm_Vertical,,
+JP1 JP2 JP3 JP4 JP5 JP6 ,6,Jumper_NO_Small,Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,,
+L2 ,1,4u7/3.85A,footprints:Wuerth_Elektronik-74404064047-Manufacturer_Recommended,Farnell,2431534
+L1 L3 ,2,DFE201612E-2R2M,footprints:L_0806_2016Metric_Pad1.15x1.40mm_HandSolder,Farnell,2776807
+Q1 ,1,NTTFS5C670NL,Package_SO:Vishay_PowerPAK_1212-8_Single,Farnell,2563863
+Q2 ,1,PBSS4350SS,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,Farnell,3439919
+Q3 Q5 ,2,BC847,Package_TO_SOT_SMD:SOT-23,,
+Q4 ,1,BC847BS,Package_TO_SOT_SMD:SOT-363_SC-70-6,,
+Q6 Q7 Q8 Q9 ,4,SI2312,Package_TO_SOT_SMD:SOT-23,Farnell,2396085
+R1 R2 R13 R14 R19 R22 R83 R84 R85 R86 R87 R90 R91 R93 R94 R95 R139 ,17,10k,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,
+R10 ,1,10R,Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder,,
+R101 ,1,12k1,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,
+R109 R110 ,2,56R,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,
+R9 R11 R15 R21 ,4,270k,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,
+R12 ,1,10m,Resistor_SMD:R_0612_1632Metric_Pad1.18x3.40mm_HandSolder,Farnell,3223610
+R138 ,1,18k,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,
+R141 ,1,0R,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,
+R16 ,1,1k,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,,
+R17 ,1,165k,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,
+R18 ,1,330k,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,
+R20 ,1,100k,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,
+R24 R35 R47 R55 R63 R92 R126 R127 R128 R132 R155 R156 ,12,100R,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,
+R26 R39 ,2,270R,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,
+R28 R103 R104 R105 R106 ,5,47R,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,
+R27 R30 ,2,10R,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,
+R29 R31 R32 R34 R37 R48 R49 R50 R51 R59 R62 R64 R82 R102 R107 R108 R114 R115 R116 R117 R118 R119 R121 R129 R130 R131 R133 R134 ,28,47k,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,
+R36 R54 R122 R123 R124 R125 R140 R145 R146 R147 R148 R149 R150 R151 R152 R153 R154 ,17,DNS,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,
+R3 R4 R23 R25 R33 R38 R78 R88 R89 R113 R120 R135 R136 R137 R142 R143 R144 ,17,1k,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,
+R40 R45 R67 R68 R69 R70 ,6,47k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,
+R41 R46 ,2,100R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,
+R42 R43 ,2,4k7,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,
+R44 R53 R99 R100 R111 R112 ,6,330R,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,
+R52 ,1,200R,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,
+R56 ,1,5k6,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,
+R57 ,1,30k,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,
+R58 ,1,22R,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,
+R60 ,1,8k2,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,
+R65 ,1,1K,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,
+R66 ,1,1k5,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,
+R5 R7 R61 ,3,22k,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,
+R71 R74 ,2,270k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,
+R75 ,1,470,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,
+R76 ,1,100R,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,,
+R77 R79 ,2,2k2,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,
+R6 R8 ,2,3k3,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,
+R80 R81 ,2,4R7,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,
+R96 R97 R98 ,3,33R,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,
+RA1 RA2 RA3 ,3,1k,Resistor_SMD:R_Array_Concave_4x0603,,
+SW1 ,1,PTS645Vx58-2LFS,Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx58-2LFS,Farnell,2320088
+T1 T3 T4 ,3,NX2301P,Package_TO_SOT_SMD:SOT-23,,
+T2 ,1,SI2333DDS-T1-GE3,Package_TO_SOT_SMD:SOT-23,Farnell,2283650
+TH1 R72 R73 ,3,10k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,Farnell,2473596
+TP1 TP2 TP3 ,3,TestPoint,TestPoint:TestPoint_Pad_D1.0mm,,
+U10 ,1,25LCxxx,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,,
+U11 ,1,SHT21,footprints:Sensirion-SHT21-Manufacturer_Recommended,Farnell,1855468
+U12 ,1,TSL2561T,footprints:AMS-TSL2561T-MFG,Digikey,TSL2561-TCT-ND
+U13 ,1,LSM6DS3,Package_LGA:LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y,Farnell,2762756
+U14 ,1,LPS22HHTR,footprints:STMicroelectronics-HLGA-10L-DM00386636-0-1-MFG,Farnell,2980908
+U15 ,1,MP34DT05TR-A,footprints:STMicroelectronics-HCLGA-DM00231908-0-3-MFG,Farnell,2851942
+U16 ,1,BME680,footprints:Bosch_Tools-BME680-Recommended_Land_Pattern_,Mouser,262-BME680
+U17 ,1,TPS63001,Package_SON:Texas_DRC0010J_ThermalVias,Farnell,3008242
+U18 ,1,BQ25616,Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.6mm,Mouser,595-BQ25616RTWT
+U19 ,1,TPS63002,Package_SON:Texas_DRC0010J_ThermalVias,Farnell,2782646
+U1 U2 U30 ,3,SN74LVC1G14DBV,Package_TO_SOT_SMD:SOT-23-5,Farnell,3120611
+U21 ,1,USBDF01W5,Package_TO_SOT_SMD:SOT-353_SC-70-5,Farnell,2341665
+U22 ,1,74AHCT1G32,Package_TO_SOT_SMD:SOT-23-5,Farnell,1085248
+U23 ,1,STUSB4500QTR,Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm,Farnell,2980889
+U24 ,1,RN4871,footprints:Microchip_RN4871_my,Farnell,2920845
+U25 ,1,LAN8742A-CZ-TR,Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm,,
+U26 ,1,TJA1042T-3,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,,
+U27 ,1,WE 7499010121A,footprints:RJ45_Wuerth_7499010121A_Horizontal_my,Farnell,1636379
+U28 ,1,EMIF06-MSD02N16,footprints:STMicroelectronics-EMIF06-MSD02N16-MFG,Digikey,497-8751-2-ND
+U29 ,1,ILI9488,footprints:3.5_INCH_TFT_DISPLAY,,
+U3 ,1,LM74610QDGKTQ1,Package_SO:VSSOP-8_3.0x3.0mm_P0.65mm,Farnell,3008482
+U31 ,1,MCP23S08T-E_ML,footprints:Microchip-MCP23S08T-E_ML-Level_A,Farnell,3491053RL
+U32 ,1,74HCT126,Package_SO:SOIC-14_3.9x8.7mm_P1.27mm,Farnell,1013962
+U33 ,1,MCP6002-xSN,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,Farnell,1840886
+U4 U5 ,2,STL15DN4F5,footprints:PowerFLAT,,
+U6 ,1,INA138,Package_TO_SOT_SMD:SOT-23-5,Farnell,3050398
+U7 U8 U20 ,3,MCP6001R,Package_TO_SOT_SMD:SOT-23-5,Farnell,8540829
+U9 ,1,STM32F746VETx,Package_QFP:LQFP-100_14x14mm_P0.5mm,,
+X1 ,1,ASFL1-25.000MHZ-EC-T,Oscillator:Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering,Farnell,2849498
+Y1 ,1,CSTCE8M00G15L99-R0,footprints:Crystal_Murata3Pin,,
+Y2 ,1,32.768 kHz,Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm,,
