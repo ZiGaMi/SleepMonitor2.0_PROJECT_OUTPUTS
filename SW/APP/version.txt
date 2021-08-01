@@ -1,26 +1,47 @@
 //============================================================
+// Version 0.0.2 (01.08.2021)
+//============================================================
+
+ Features/Changes:
+ - Buzzer beep on touch event
+ - Display notifications
+ - Fixing bugs on parameters
+ 
+ Solved Issues:
+ 
+ Known Issues:
+ - Reset via shell latches some display start-up sequence
+ 
+ TODO List: 
+ - Home graphics
+ - All sensors interfaces 
+ - Ethernet HW verification test
+ - CAN HW verification test
+ - Digital IO HW verification test
+ - DFU programming test
+
+//============================================================
 // Version 0.0.1 (31.07.2021)
 //============================================================
 
-Features/Changes:
+ Features/Changes:
  - Power management handling (USB & EXT switch, system current
   monitoring, battery charger handling)
  - Battery SOC estimation
  - Led indication of SOC battery and charging state
- - Display graphics
+ - Display graphics (battery indicator)
  - Display touch handling
  - Touch calibration procedure (storing parameters to NVM
  loading on startup)
  - Shell support (commands, parameters diagnostics & control)
  Works on debug UART at 115200 baudrate
  
-Solved Issues:
- -
+ Solved Issues:
  
-Known Issues:
+ Known Issues:
  - Reset via shell latches some display start-up sequence
 
-TODO List: 
+ TODO List: 
  - Home graphics
  - All sensors interfaces 
  - Ethernet HW verification test
